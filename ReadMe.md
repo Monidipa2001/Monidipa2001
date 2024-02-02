@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on my Big Data Projects<br>👯 I’m looking to collaborate on Python , SQL and Exploratory Data Analytics Project<br>🤝 I’m looking for help with Python<br>🌱 I’m currently learning Big Data Analytics<br>💬 Ask me about my transition from management to big data analytics<br>⚡ Fun fact I am a Marketing enthusiast too
 
-
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_monidipaaa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/monidipa-sahoo-274409210/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@sahoo.monidipa14) 
 
